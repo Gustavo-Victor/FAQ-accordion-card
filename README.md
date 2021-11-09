@@ -40,7 +40,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](www.github.com/Gustavo-Victor/faq-accordion-card)
+- Solution URL: [Add solution URL here](https://github.com/Gustavo-Victor/FAQ-accordion-card)
 - Challenge: [Add Challenge URL](https://www.frontendmentor.io/challenges/faq-accordion-card-XlyjD0Oam)
 
 
